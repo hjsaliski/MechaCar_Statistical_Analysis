@@ -10,9 +10,10 @@ Using R and statistics for Analysis
 
 **##Summary Statistics on Suspension Coils**
 
-<img width="482" alt="Total Summary" src="https://user-images.githubusercontent.com/102257486/176349982-482f0c96-4a44-44ae-bcc1-bd37a197de30.png">
+<img width="637" alt="Total_summary" src="https://user-images.githubusercontent.com/102257486/176350288-ecaa7c58-5cb2-4dff-aa2d-ff9ce0f5b012.png">
 
-<img width="648" alt="Lot Summary" src="https://user-images.githubusercontent.com/102257486/176349996-70285444-49a1-4533-bf38-931828dbe6bd.png">
+<img width="605" alt="Lot Summary" src="https://user-images.githubusercontent.com/102257486/176350295-3cd74a15-20ea-42a0-92a0-65f5f07ee582.png">
+
 
 **##T-Tests on Suspension Coils**
 
