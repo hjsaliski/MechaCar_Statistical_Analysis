@@ -2,8 +2,6 @@
 Using R and statistics for Analysis
 
 
-**PURPOSE**
-
 **##Linear Regression to Predict MPG**
 
 <img width="647" alt="Linear regression" src="https://user-images.githubusercontent.com/102257486/176348069-0bb03cf6-152b-4746-a85a-1c8ce5b6c008.png">
