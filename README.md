@@ -17,5 +17,8 @@ Using R and statistics for Analysis
 
 **##T-Tests on Suspension Coils**
 
+<img width="642" alt="Test" src="https://user-images.githubusercontent.com/102257486/176351447-8cd83e87-a944-4c6d-ad67-c5d6304cdc2f.png">
+
+<img width="648" alt="Screen Shot 2022-06-28 at 22 24 05" src="https://user-images.githubusercontent.com/102257486/176351456-384c4bcc-09bb-4bf4-809d-5b3d9f92c46b.png">
 
 **##Study Design: MechaCar vs Competition**
