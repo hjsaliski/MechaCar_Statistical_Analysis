@@ -31,4 +31,4 @@ For the next 2 lots we can see the same result. Since the p-value is above the n
 
 **##Study Design: MechaCar vs Competition**
 
-
+Some metrics that we could test that would compare to the value of MPGs across cars would be something like weight and aerodynamics of the car. Possibly the cost could be a factor too in this but i would think that it is mostly up to the way the car drives that allows it to become more fuel efficient. Possibly the type of engine it uses and how many liters it takes in. These factors can get really specific really quick but they all have a huge factor in how well the car gets MPGS. The alternative hypotheses would be testing for each of these individually and then all together kind of like hown we did in the challenge. The data that is needed to run the statistical test would be the data that we want to test. The data that causes or doesnt cause mpg deficit. These would be a=our measurest tha we created in the first part of the question, being weight, cost, aerodynamics, type of engine etc. and then figuring our oif these cause more or less results when compared to each other. 
